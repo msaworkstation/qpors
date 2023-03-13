@@ -1,2 +1,2 @@
-# qpros
+# Q Pros
 assignment submission 
